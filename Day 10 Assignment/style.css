@@ -13,3 +13,17 @@ a{
     color: #008CBA;
 }
 
+.heading{
+    cursor: pointer;
+}
+
+.footer{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    margin-top:20px;
+    padding: 30px;
+    border: 3px solid gray;
+    border-radius: 5px;
+    box-sizing:border-box;
+}
